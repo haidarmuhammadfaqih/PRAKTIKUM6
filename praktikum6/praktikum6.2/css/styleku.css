@@ -1,0 +1,35 @@
+body{
+    background-color: deepskyblue;
+    font-family: 'Lucida Sans', verdana, sans-serif;
+}
+
+h1{
+   text-align: center; 
+   color: darkslateblue;
+}
+p{
+    text-align: justify;
+    width: fit-content;
+}
+.center{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.koleksi{
+    background-color: black;
+}
+.koleksi img{
+    width: 23%;
+}
+
+.promo{
+    margin: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+blockquote{
+    text-align: center;
+}
